@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://t6a4m-8090.csb.app/$1"
+      "dest": "http://182.44.1.58:8000/$1"
     }
   ]
 }
